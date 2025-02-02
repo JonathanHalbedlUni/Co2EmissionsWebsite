@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Co2Emissions.props" />
+</Project>

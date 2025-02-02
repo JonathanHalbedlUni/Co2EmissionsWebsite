@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Home" xml:space="preserve">
+    <value>Startseite</value>
+  </data>
+    <data name="Welcome to CO2-Footprint" xml:space="preserve">
+    <value>Willkommen bei CO2-Footprint</value>
+  </data>
+    <data name="We analyze CO2 emissions by countries and companies to help you understand the impact on the environment." xml:space="preserve">
+    <value>Wir analysieren CO2-Emissionen von Ländern und Unternehmen, um Ihnen zu helfen, die Auswirkungen auf die Umwelt zu verstehen.</value>
+  </data>
+    <data name="Our mission is to provide transparent and accurate data to promote sustainable practices and reduce carbon footprints globally." xml:space="preserve">
+    <value>Unsere Mission ist es, transparente und genaue Daten bereitzustellen, um nachhaltige Praktiken zu fördern und den CO2-Fußabdruck weltweit zu reduzieren.</value>
+  </data>
+    <data name="Frequently Asked Questions" xml:space="preserve">
+    <value>Häufig gestellte Fragen</value>
+  </data>
+    <data name="What is CO2-Footprint?" xml:space="preserve">
+    <value>Was ist CO2-Footprint?</value>
+  </data>
+    <data name="CO2-Footprint is a platform that provides data on CO2 emissions by countries and companies to promote environmental awareness and sustainable practices." xml:space="preserve">
+    <value>CO2-Footprint ist eine Plattform, die Daten zu CO2-Emissionen von Ländern und Unternehmen bereitstellt, um das Umweltbewusstsein und nachhaltige Praktiken zu fördern.</value>
+  </data>
+    <data name="How do we collect data?" xml:space="preserve">
+    <value>Wie sammeln wir Daten?</value>
+  </data>
+    <data name="We collect data from various reliable sources, including government reports, environmental organizations, and scientific research papers." xml:space="preserve">
+    <value>Wir sammeln Daten aus verschiedenen zuverlässigen Quellen, einschließlich Regierungsberichten, Umweltorganisationen und wissenschaftlichen Forschungspapieren.</value>
+  </data>
+    <data name="How can you use our data?" xml:space="preserve">
+    <value>Wie können Sie unsere Daten nutzen?</value>
+  </data>
+    <data name="Our data can be used for research, policy-making, and raising awareness about the importance of reducing carbon footprints." xml:space="preserve">
+    <value>Unsere Daten können für Forschung, Politikgestaltung und Sensibilisierung für die Bedeutung der Reduzierung des CO2-Fußabdrucks verwendet werden.</value>
+  </data>
+</root>

@@ -1,0 +1,76 @@
+﻿/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #2c3e50;
+    padding: 0.5rem 1rem;
+}
+.navbar-brand {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #ecf0f1;
+}
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    margin-right: 0.75rem;
+    color: #ecf0f1;
+}
+
+/* Container Styles */
+.container {
+    margin-top: 2rem;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 1rem 0;
+}
+footer p {
+    margin: 0;
+}
+
+/* Table Styles */
+.table-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+thead {
+    background-color: #4CAF50;
+    color: white;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    white-space: normal;
+    word-wrap: break-word;
+}
+.table-responsive {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.table-success {
+    background-color: #27ae60;
+    color: #ffffff;
+}
+.table-hover tbody tr:hover {
+    background-color: #d1f2eb;
+}

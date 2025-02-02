@@ -1,0 +1,44 @@
+@page
+@using Microsoft.Extensions.Localization
+@model Co2Emissions.Pages.Index
+@inject IStringLocalizer<Co2Emissions.Pages.Index> Localizer
+
+@{
+    ViewData["Title"] = Localizer["Home"];
+}
+
+<section class="text-center my-5">
+    <h2>@Localizer["Welcome to CO2-Footprint"]</h2>
+    <p>@Localizer["We analyze CO2 emissions by countries and companies to help you understand the impact on the environment."]</p>
+    <p>@Localizer["Our mission is to provide transparent and accurate data to promote sustainable practices and reduce carbon footprints globally."]</p>
+</section>
+
+<section class="container my-5">
+    <h2 class="text-center mb-4">@Localizer["Frequently Asked Questions"]</h2>
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">@Localizer["What is CO2-Footprint?"]</h5>
+                    <p class="card-text">@Localizer["CO2-Footprint is a platform that provides data on CO2 emissions by countries and companies to promote environmental awareness and sustainable practices."]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">@Localizer["How do we collect data?"]</h5>
+                    <p class="card-text">@Localizer["We collect data from various reliable sources, including government reports, environmental organizations, and scientific research papers."]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">@Localizer["How can you use our data?"]</h5>
+                    <p class="card-text">@Localizer["Our data can be used for research, policy-making, and raising awareness about the importance of reducing carbon footprints."]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

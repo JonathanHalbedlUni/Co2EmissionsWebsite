@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Home" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="Welcome to CO2-Footprint" xml:space="preserve">
+    <value>مرحبًا بكم في CO2-Footprint</value>
+  </data>
+  <data name="We analyze CO2 emissions by countries and companies to help you understand the impact on the environment." xml:space="preserve">
+    <value>نحن نحلل انبعاثات ثاني أكسيد الكربون من الدول والشركات لمساعدتك على فهم التأثير على البيئة.</value>
+  </data>
+  <data name="Our mission is to provide transparent and accurate data to promote sustainable practices and reduce carbon footprints globally." xml:space="preserve">
+    <value>مهمتنا هي توفير بيانات شفافة ودقيقة لتعزيز الممارسات المستدامة وتقليل البصمة الكربونية عالميًا.</value>
+  </data>
+  <data name="Frequently Asked Questions" xml:space="preserve">
+    <value>الأسئلة الشائعة</value>
+  </data>
+  <data name="What is CO2-Footprint?" xml:space="preserve">
+    <value>ما هو CO2-Footprint؟</value>
+  </data>
+  <data name="CO2-Footprint is a platform that provides data on CO2 emissions by countries and companies to promote environmental awareness and sustainable practices." xml:space="preserve">
+    <value>CO2-Footprint هي منصة توفر بيانات حول انبعاثات ثاني أكسيد الكربون من الدول والشركات لتعزيز الوعي البيئي والممارسات المستدامة.</value>
+  </data>
+  <data name="How do we collect data?" xml:space="preserve">
+    <value>كيف نجمع البيانات؟</value>
+  </data>
+  <data name="We collect data from various reliable sources, including government reports, environmental organizations, and scientific research papers." xml:space="preserve">
+    <value>نحن نجمع البيانات من مصادر موثوقة مختلفة، بما في ذلك التقارير الحكومية والمنظمات البيئية والأوراق البحثية العلمية.</value>
+  </data>
+  <data name="How can you use our data?" xml:space="preserve">
+    <value>كيف يمكنك استخدام بياناتنا؟</value>
+  </data>
+  <data name="Our data can be used for research, policy-making, and raising awareness about the importance of reducing carbon footprints." xml:space="preserve">
+    <value>يمكن استخدام بياناتنا في البحث وصنع السياسات وزيادة الوعي بأهمية تقليل البصمة الكربونية.</value>
+  </data>
+</root>

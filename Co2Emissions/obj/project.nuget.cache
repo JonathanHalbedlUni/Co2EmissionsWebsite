@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP5rDMHBwWk=",
+  "success": true,
+  "projectFilePath": "/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/Co2Emissions.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathan/.nuget/packages/bootstrap/5.3.3/bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\models\\co2datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\models\\co2datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|c:\\users\\halbedlj\\source\\repos\\co2emissions\\co2emissions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4164F23A-304D-450B-8111-F14B33B6D548}|Co2Emissions\\Co2Emissions.csproj|solutionrelative:co2emissions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "Co2Emissions\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "Co2Emissions\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-29T07:33:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Co2Emissions\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Co2Emissions\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-29T07:33:27.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CO2DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Models\\CO2DataModel.cs",
+              "RelativeDocumentMoniker": "Co2Emissions\\Models\\CO2DataModel.cs",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Models\\CO2DataModel.cs",
+              "RelativeToolTip": "Co2Emissions\\Models\\CO2DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:30:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Program.cs",
+              "RelativeDocumentMoniker": "Co2Emissions\\Program.cs",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Program.cs",
+              "RelativeToolTip": "Co2Emissions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:20:07.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Co2Emissions\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Co2Emissions\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:09:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Co2Emissions\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Co2Emissions\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:08:39.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Co2Emissions\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Co2Emissions\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:17:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Co2Emissions\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Co2Emissions\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-23T09:15:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Co2Emissions\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\halbedlj\\source\\repos\\Co2Emissions\\Co2Emissions\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Co2Emissions\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:14:49.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

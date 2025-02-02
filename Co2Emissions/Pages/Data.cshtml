@@ -1,0 +1,49 @@
+﻿@page
+@model DataModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<section class="text-center">
+    <h2>CO2-Footprint Übersicht</h2>
+    <p>Analyse der CO2-Emissionen von Ländern und Unternehmen.</p>
+</section>
+
+<section id="data" class="mt-4">
+    <h2 class="text-center">CO2-Emissionsdaten</h2>
+
+    <!-- SUCHLEISTE -->
+    <div class="mb-3 text-center">
+        <label for="filter" class="form-label">Suchen:</label>
+        <input type="text" id="filter" class="form-control w-50 mx-auto" placeholder="Land oder Unternehmen suchen" oninput="validateInput(this)">
+    </div>
+
+    <!-- TABLE WRAPPER FÜR RESPONSIVE ANPASSUNG -->
+    <div class="table-container">
+        <table class="table table-bordered table-hover" id="data-table">
+            <thead class="table-success">
+            <tr>
+                <th>Land</th>
+                <th>Unternehmen</th>
+                <th>Emissionen (Tonnen)</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model.CO2Data)
+            {
+                <tr>
+                    <td>@item.Country</td>
+                    <td>@item.Company</td>
+                    <td>@item.Emissions.ToString("N0")</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+<script>
+    function validateInput(input) {
+        input.value = input.value.replace(/[^a-zA-Z0-9\s]/g, '');
+    }
+</script>
