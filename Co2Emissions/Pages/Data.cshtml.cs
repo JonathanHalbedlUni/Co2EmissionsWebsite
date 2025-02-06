@@ -13,4 +13,6 @@ namespace Co2Emissions.Pages
             CO2Data = Co2DataModel.GetSampleData();
         }
     }
+    
+    
 }

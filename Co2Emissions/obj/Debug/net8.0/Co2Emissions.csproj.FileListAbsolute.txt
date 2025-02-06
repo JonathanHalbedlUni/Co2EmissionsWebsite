@@ -78,3 +78,4 @@ C:/Users/halbedlj/source/repos/Co2Emissions/Co2Emissions/obj/Debug/net8.0/ref/Co
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/de/Co2Emissions.resources.dll
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/en/Co2Emissions.resources.cs
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/en/Co2Emissions.resources.dll
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.sourcelink.json
