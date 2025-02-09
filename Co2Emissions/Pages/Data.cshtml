@@ -1,31 +1,33 @@
 ﻿@page
+@using Microsoft.AspNetCore.Mvc.Localization
 @model DataModel
+@inject IViewLocalizer Localizer
 @{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = Localizer["Home"];
 }
 
 <section class="text-center">
-    <h2>CO2-Footprint Übersicht</h2>
-    <p>Analyse der CO2-Emissionen von Ländern und Unternehmen.</p>
+    <h2>@Localizer["CO2-Footprint Overview"]</h2>
+    <p>@Localizer["Analysis of CO2 emissions by countries and companies."]</p>
 </section>
 
 <section id="data" class="mt-4">
-    <h2 class="text-center">CO2-Emissionsdaten</h2>
+    <h2 class="text-center">@Localizer["CO2 Emissions Data"]</h2>
 
-    <!-- SUCHLEISTE -->
+    <!-- Search Bar -->
     <div class="mb-3 text-center">
-        <label for="filter" class="form-label">Suchen:</label>
-        <input type="text" id="filter" class="form-control w-50 mx-auto" placeholder="Land oder Unternehmen suchen" oninput="validateInput(this)">
+        <label for="filter" class="form-label">@Localizer["Search"]:</label>
+        <input type="text" id="filter" class="form-control w-50 mx-auto" placeholder="@Localizer["Search for country or company"]" oninput="validateInput(this)">
     </div>
 
-    <!-- TABLE WRAPPER FÜR RESPONSIVE ANPASSUNG -->
+    <!-- Table Wrapper for Responsive Adjustment -->
     <div class="table-container">
         <table class="table table-bordered table-hover" id="data-table">
             <thead class="table-success">
             <tr>
-                <th>Land</th>
-                <th>Unternehmen</th>
-                <th>Emissionen (Tonnen)</th>
+                <th>@Localizer["Country"]</th>
+                <th>@Localizer["Company"]</th>
+                <th>@Localizer["Emissions (Tons)"]</th>
             </tr>
             </thead>
             <tbody>

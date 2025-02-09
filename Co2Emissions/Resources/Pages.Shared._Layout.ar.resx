@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Home" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+    <data name="Data" xml:space="preserve">
+    <value>البيانات</value>
+  </data>
+    <data name="Contact" xml:space="preserve">
+    <value>اتصل</value>
+  </data>
+    <data name="Language" xml:space="preserve">
+    <value>اللغة</value>
+  </data>
+</root>

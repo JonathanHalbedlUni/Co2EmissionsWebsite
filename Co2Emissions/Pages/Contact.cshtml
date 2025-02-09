@@ -1,28 +1,31 @@
 @page
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.AspNetCore.Mvc.TagHelpers
 @model Co2Emissions.Pages.Contact
+@inject IViewLocalizer Localizer
 @{
-    ViewData["Title"] = "Contact";
+    ViewData["Title"] = Localizer["Contact"];
 }
 
 <section class="text-center my-5">
-    <h2>Contact Us</h2>
-    <p class="lead">Feel free to reach out to us for any inquiries.</p>
+    <h2>@Localizer["Contact Us"]</h2>
+    <p class="lead">@Localizer["Feel free to reach out to us for any inquiries."]</p>
 </section>
 
 <section id="contact-form" class="mt-4 mb-5">
     <form method="post" class="w-75 mx-auto p-4 border rounded shadow-sm bg-light">
         <div class="mb-3">
-            <label for="name" class="form-label">Name</label>
+            <label for="name" class="form-label">@Localizer["Name"]</label>
             <input type="text" id="name" name="Name" class="form-control" required>
         </div>
         <div class="mb-3">
-            <label for="email" class="form-label">Email</label>
+            <label for="email" class="form-label">@Localizer["Email"]</label>
             <input type="email" id="email" name="Email" class="form-control" required>
         </div>
         <div class="mb-3">
-            <label for="message" class="form-label">Message</label>
+            <label for="message" class="form-label">@Localizer["Message"]</label>
             <textarea id="message" name="Message" class="form-control" rows="5" required></textarea>
         </div>
-        <button type="submit" class="btn btn-primary w-100">Send</button>
+        <button type="submit" class="btn btn-primary w-100">@Localizer["Send"]</button>
     </form>
 </section>

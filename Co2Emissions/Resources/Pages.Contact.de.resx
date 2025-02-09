@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Contact Us" xml:space="preserve">
+    <value>Kontaktieren Sie uns</value>
+  </data>
+    <data name="Feel free to reach out to us for any inquiries." xml:space="preserve">
+    <value>Fühlen Sie sich frei, uns bei Fragen zu kontaktieren.</value>
+  </data>
+    <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+    <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+    <data name="Message" xml:space="preserve">
+    <value>Nachricht</value>
+  </data>
+    <data name="Send" xml:space="preserve">
+    <value>Senden</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+    <comment>Contact</comment>
+  </data>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="CO2-Footprint Overview" xml:space="preserve">
+    <value>نظرة عامة على CO2-Footprint</value>
+  </data>
+  <data name="Analysis of CO2 emissions by countries and companies." xml:space="preserve">
+    <value>تحليل انبعاثات ثاني أكسيد الكربون من الدول والشركات.</value>
+  </data>
+  <data name="CO2 Emissions Data" xml:space="preserve">
+    <value>بيانات انبعاثات ثاني أكسيد الكربون</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="Search for country or company" xml:space="preserve">
+    <value>البحث عن دولة أو شركة</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>دولة</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>شركة</value>
+  </data>
+  <data name="Emissions (Tons)" xml:space="preserve">
+    <value>الانبعاثات (أطنان)</value>
+  </data>
+</root>

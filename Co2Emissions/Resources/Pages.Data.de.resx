@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="CO2-Footprint Overview" xml:space="preserve">
+    <value>CO2-Footprint Übersicht</value>
+  </data>
+    <data name="Analysis of CO2 emissions by countries and companies." xml:space="preserve">
+    <value>Analyse der CO2-Emissionen von Ländern und Unternehmen.</value>
+  </data>
+    <data name="CO2 Emissions Data" xml:space="preserve">
+    <value>CO2-Emissionsdaten</value>
+  </data>
+    <data name="Search" xml:space="preserve">
+    <value>Suchen</value>
+  </data>
+    <data name="Search for country or company" xml:space="preserve">
+    <value>Land oder Unternehmen suchen</value>
+  </data>
+    <data name="Country" xml:space="preserve">
+    <value>Land</value>
+  </data>
+    <data name="Company" xml:space="preserve">
+    <value>Unternehmen</value>
+  </data>
+    <data name="Emissions (Tons)" xml:space="preserve">
+    <value>Emissionen (Tonnen)</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+    <comment>Home</comment>
+  </data>
+</root>

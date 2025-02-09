@@ -79,3 +79,12 @@ C:/Users/halbedlj/source/repos/Co2Emissions/Co2Emissions/obj/Debug/net8.0/ref/Co
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/en/Co2Emissions.resources.cs
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/en/Co2Emissions.resources.dll
 /Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.sourcelink.json
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Contact.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Data.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Contact.ar.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Contact.de.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Data.ar.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Data.de.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Shared._Layout.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Shared._Layout.ar.resources
+/Users/jonathan/Desktop/Co2Emissions/Co2Emissions/obj/Debug/net8.0/Co2Emissions.Resources.Pages.Shared._Layout.de.resources
